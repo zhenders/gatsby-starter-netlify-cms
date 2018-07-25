@@ -27,7 +27,7 @@ module.exports = {
         plugins: [],
       },
     },
-      resolve: `gatsby-plugin-google-tagmanager`,
+      resolve: 'gatsby-plugin-google-tagmanager',
       options: {
       id: "3721074241",
 
